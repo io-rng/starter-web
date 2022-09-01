@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ivan Onu  ivan@git.training    @io-rng
 
 # THANKS
 
