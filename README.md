@@ -15,3 +15,8 @@ As stated above, the main pusrpose is to provied simple examples got git trainin
 This is a simple web project, deployment can be on any web server or even local file system.
 
 ## How To Contribute
+
+
+### Copyright
+
+2022 Git.Training.
