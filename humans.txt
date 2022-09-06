@@ -1,6 +1,6 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-
+some changes for lesson #68
 # TEAM
 
     Ivan Onu  ivan@git.training    @io-rng
